@@ -16,7 +16,7 @@ A clean and interactive web app that displays a random quote with the click of a
 ## 📸 Live Demo
 
 👉 [View it on GitHub Pages](https://egidee.github.io/Random-quote-machine/)  
-*(Link works if GitHub Pages is enabled)*
+
 
 ---
 
